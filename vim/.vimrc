@@ -19,6 +19,7 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 " Refer to |:NeoBundle-examples|.
 " Note: You don't set neobundle setting in .gvimrc!
 NeoBundleFetch 'vim-airline/vim-airline'
+NeoBundle 'scrooloose/nerdtree'
 
 call neobundle#end()
 
